@@ -1,16 +1,15 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=sapaladas&color=green&label=Profile+Views)
 
-<!--
-**sapaladas/sapaladas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="33px">
 
-Here are some ideas to get you started:
+- *Hello, I'm Spiros!*
+- *I work as a Data Insights Analyst at [efood](https://www.e-food.gr/), part of [Delivery Hero](https://www.deliveryhero.com/)*
+- *My daily tech stack includes `SQL`, `Python`, `BigQuery`, `Data Studio`, `VS Code`, `Git`, `Jira`*
+- *I'm currently pursuing a [MSc in Data Science](https://datascience.aueb.gr/) at the Athens University of Economics and Business*
+- *My work related interests include advanced analytics, machine learning applications and process automation*
+- *[Click here to learn more about me on my LinkedIn profile](https://www.linkedin.com/in/sapaladas/)*
+- *Oh, and thanks for dropping by, I hope you find some of my work interesting!*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+![Google Dino](images/dino_rounded.gif)
